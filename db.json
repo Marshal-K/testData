@@ -1,5 +1,5 @@
 {
-  "DN comaprison": "DNs Match",
+  "DN comparison": "DNs Match",
   "GSO":"5323436",
   "AD DN":"CN=Ngwenya\\, Bongani,OU=DomainUsers,DC=FNB,DC=co,DC=za",
   "mail":"No mail attribute",
@@ -7,5 +7,5 @@
   "lockoutTime":"No lockout attribute",
   "SDS DN":"principalName=f5323436,cn=Users,secAuthority=Default",
   "username":"f5323436",
-  "pwdLastSet":"Dec 31, 2019 11:46:56"
+  "pwdLastSet":"Dec 31, 2019 11:46:56 AM"
 }
